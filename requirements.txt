@@ -1,0 +1,2 @@
+install dependencies
+pandas numpy matplotlib seaborn
