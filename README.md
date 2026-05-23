@@ -10,7 +10,8 @@ This project analyzes book data using Python and provides simple rule-based reco
 - Matplotlib
 - Seaborn
 ## How to Run
--Install dependencies:
--pip install -r requirements.txt
--Open Jupyter Notebook
--Run notebooks/analysis.ipynb
+- Install dependencies:
+- pip install
+- r requirements.txt
+- Open Jupyter Notebook
+- Run notebooks/analysis.ipynb
